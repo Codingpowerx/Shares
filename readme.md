@@ -1,4 +1,4 @@
-# File uplaod Application
+# File upload Application
 
 Built using modern technologies: This is a file hosting website i developed where a user can login or create an account and then save up images to cloud storage
 
